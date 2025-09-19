@@ -251,9 +251,9 @@ The plugin is built to WCAG 2.2 AA standards:
 
 ## Performance
 
-Optimized for speed and minimal impact:
+Optimised for speed and minimal impact:
 
-- **Asset Budget**: <12KB JavaScript (gzipped), <5KB CSS
+- **Asset Budget**: <45KB JavaScript (gzipped), <20KB CSS
 - **No Synchronous Calls**: All user interactions are handled client-side
 - **Edge Compatible**: No per-click origin writes, works with global CDNs
 - **Efficient Scanning**: Batched operations with configurable scheduling
@@ -321,14 +321,15 @@ Contributions welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guideli
 
 ## Support
 
-- **GitHub Issues**: [Report bugs and request features](https://github.com/adammcbride/open-cookie-consent/issues)
-- **Documentation**: [Wiki and guides](https://github.com/adammcbride/open-cookie-consent/wiki)
-- **Discussions**: [Community support](https://github.com/adammcbride/open-cookie-consent/discussions)
+- **GitHub Issues**: [Report bugs and request features](https://github.com/dynumo/open-cookie-consent/issues)
+- **Documentation**: [Wiki and guides](https://github.com/dynumo/open-cookie-consent/wiki)
+- **Discussions**: [Community support](https://github.com/dynumo/open-cookie-consent/discussions)
 
 ## Roadmap
 
-See our [project roadmap](https://github.com/adammcbride/open-cookie-consent/projects) for planned features and improvements.
+See our [project roadmap](https://github.com/dynumo/open-cookie-consent/projects) for planned features and improvements.
 
 ---
+
 
 **Note**: This plugin provides tools for GDPR compliance but does not guarantee compliance. Always consult with legal experts for your specific requirements.
