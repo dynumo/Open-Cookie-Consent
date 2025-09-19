@@ -1,0 +1,533 @@
+/**
+ * Open Cookie Consent - Admin Styles
+ */
+
+.occ-admin {
+    max-width: 1200px;
+}
+
+.occ-admin .nav-tab-wrapper {
+    margin-bottom: 20px;
+}
+
+/* Status Cards */
+.occ-status-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    margin-bottom: 30px;
+}
+
+.occ-status-card {
+    background: #fff !important;
+    border: 1px solid #ccd0d4;
+    border-radius: 4px;
+    padding: 20px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+}
+
+.occ-status-card h3 {
+    margin: 0 0 10px 0;
+    font-size: 16px;
+    color: #23282d;
+}
+
+.occ-status-indicator {
+    display: inline-block;
+    padding: 4px 8px;
+    border-radius: 3px;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.occ-status-active {
+    background: #d4edda;
+    color: #155724;
+}
+
+.occ-status-inactive {
+    background: #f8d7da;
+    color: #721c24;
+}
+
+.occ-scan-date,
+.occ-scan-schedule {
+    font-size: 18px;
+    font-weight: 600;
+    color: #0073aa;
+    margin-bottom: 5px;
+}
+
+/* Quick Actions */
+.occ-quick-actions {
+    background: #fff !important;
+    border: 1px solid #ccd0d4;
+    border-radius: 4px;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.occ-quick-actions h3 {
+    margin: 0 0 15px 0;
+}
+
+.occ-action-buttons {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+/* Cookie List */
+.occ-recent-cookies,
+.occ-cookies-table-wrapper {
+    background: #fff !important;
+    border: 1px solid #ccd0d4;
+    border-radius: 4px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.occ-recent-cookies h3 {
+    margin: 0 0 15px 0;
+}
+
+.occ-cookie-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.occ-cookie-item {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 10px;
+    border: 1px solid #e1e1e1;
+    border-radius: 4px;
+    background: #f9f9f9 !important;
+}
+
+.occ-cookie-item strong {
+    flex: 1;
+    color: #23282d;
+}
+
+.occ-cookie-category {
+    padding: 2px 8px;
+    border-radius: 3px;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.occ-category-necessary {
+    background: #e1f5fe;
+    color: #01579b;
+}
+
+.occ-category-analytics {
+    background: #fff3e0;
+    color: #e65100;
+}
+
+.occ-category-advertising {
+    background: #fce4ec;
+    color: #880e4f;
+}
+
+.occ-cookie-vendor {
+    color: #666;
+    font-size: 12px;
+}
+
+/* Category Badges */
+.occ-category-badge {
+    display: inline-block;
+    padding: 4px 8px;
+    border-radius: 3px;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+/* Confidence Indicators */
+.occ-confidence-high {
+    color: #155724;
+    font-weight: 600;
+}
+
+.occ-confidence-medium {
+    color: #856404;
+    font-weight: 600;
+}
+
+.occ-confidence-low {
+    color: #721c24;
+    font-weight: 600;
+}
+
+/* Scanner Tab */
+.occ-scanner-tab .occ-scanner-actions {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    border-radius: 4px;
+    padding: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.occ-scan-status {
+    flex: 1;
+}
+
+.occ-scan-status .notice {
+    margin: 0;
+}
+
+/* Categories Tab */
+.occ-categories-list .occ-category-row {
+    background: #fff !important;
+    border: 1px solid #ccd0d4;
+    border-radius: 4px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.occ-category-row h3 {
+    margin: 0 0 15px 0;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+/* Form Styles */
+.occ-admin .form-table th {
+    width: 200px;
+    vertical-align: top;
+    padding-top: 15px;
+}
+
+.occ-admin .form-table td {
+    padding-bottom: 20px;
+}
+
+.occ-admin textarea.code {
+    font-family: Consolas, Monaco, monospace;
+    font-size: 13px;
+}
+
+.occ-admin .regular-text {
+    width: 25em;
+}
+
+.occ-admin .large-text {
+    width: 99%;
+}
+
+/* Color Picker */
+.occ-color-picker {
+    width: 100px;
+}
+
+/* Help Tab */
+.occ-help h3 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.occ-help h4 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.occ-help pre {
+    background: #f1f1f1 !important;
+    border: 1px solid #ccd0d4;
+    border-radius: 4px;
+    padding: 15px;
+    overflow-x: auto;
+    font-size: 13px;
+}
+
+.occ-help code {
+    background: #f1f1f1 !important;
+    padding: 2px 4px;
+    border-radius: 3px;
+    font-size: 13px;
+}
+
+.occ-help pre code {
+    background: none;
+    padding: 0;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .occ-status-cards {
+        grid-template-columns: 1fr;
+    }
+    
+    .occ-action-buttons {
+        flex-direction: column;
+    }
+    
+    .occ-action-buttons .button {
+        text-align: center;
+    }
+    
+    .occ-cookie-item {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 5px;
+    }
+    
+    .occ-scanner-actions {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    
+    .occ-admin .regular-text,
+    .occ-admin .large-text {
+        width: 100%;
+    }
+}
+
+/* Dark mode removed for admin cards to keep consistent light styling */
+
+/* Print styles */
+@media print {
+    .occ-admin .nav-tab-wrapper,
+    .occ-action-buttons,
+    .occ-scanner-actions {
+        display: none;
+    }
+}
+
+.occ-inventory-table {
+  margin: 12px 0 24px;
+}
+
+.occ-inventory-table td {
+  vertical-align: top;
+}
+
+
+.occ-admin-byline {
+  margin: 4px 0 20px;
+  font-size: 14px;
+}
+
+.occ-admin-byline a {
+  color: #2271b1;
+  text-decoration: none;
+}
+
+.occ-admin-byline a:hover {
+  text-decoration: underline;
+}
+
+.occ-inventory-list {
+  display: grid;
+  gap: 20px;
+  margin: 20px 0;
+}
+
+.occ-inventory-item {
+  border: 1px solid #dcdfe4;
+  border-radius: 8px;
+  padding: 16px;
+  background: #fff;
+  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.08);
+}
+
+.occ-inventory-item-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.occ-inventory-remove {
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin: 0;
+}
+
+.occ-inventory-fields {
+  display: flex;
+  flex-direction: column;
+}
+
+.occ-inventory-field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: 12px;
+}
+
+.occ-inventory-wide {
+  grid-column: 1 / -1;
+}
+
+.occ-inventory-field span {
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.occ-inventory-fields select,
+.occ-inventory-fields input[type="text"],
+.occ-inventory-fields input[type="url"],
+.occ-inventory-fields textarea {
+  width: 100%;
+}
+
+@media (min-width: 720px) {
+  .occ-inventory-fields {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px;
+  }
+  .occ-inventory-name {
+    grid-column: 1 / -1;
+  }
+  .occ-inventory-field:nth-last-child(-n+2) {
+    grid-column: 1 / -1;
+  }
+  .occ-inventory-fields textarea {
+    min-height: 70px;
+  }
+}
+
+/* Improved Inventory Interface */
+.occ-plugin-author {
+  font-size: 14px;
+  font-weight: normal;
+  color: #666;
+  margin-left: 16px;
+}
+
+.occ-plugin-author a {
+  color: #2271b1;
+  text-decoration: none;
+}
+
+.occ-plugin-author a:hover {
+  text-decoration: underline;
+}
+
+.occ-cookie-name {
+  margin: 0 0 8px 0;
+  font-size: 16px;
+  font-weight: 600;
+  color: #1d2327;
+}
+
+.occ-inventory-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.occ-manual-badge {
+  background: #dbeafe;
+  color: #1e40af;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.occ-field-row {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.occ-field-col {
+  flex: 1;
+  min-width: 0;
+}
+
+.occ-field-col-full {
+  flex: 1 1 100%;
+}
+
+.occ-field-label {
+  display: block;
+  font-weight: 600;
+  font-size: 13px;
+  color: #1d2327;
+  margin-bottom: 6px;
+}
+
+.occ-field-label .required {
+  color: #d63384;
+}
+
+.occ-input,
+.occ-select,
+.occ-textarea {
+  width: 100%;
+  padding: 8px 12px;
+  border: 1px solid #8c8f94;
+  border-radius: 4px;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #2c3338;
+  background-color: #fff;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.occ-input:focus,
+.occ-select:focus,
+.occ-textarea:focus {
+  border-color: #2271b1;
+  outline: 0;
+  box-shadow: 0 0 0 1px #2271b1;
+}
+
+.occ-textarea {
+  min-height: 80px;
+  resize: vertical;
+}
+
+.occ-field-meta {
+  margin-top: 8px;
+}
+
+.occ-confidence {
+  color: #646970;
+  font-size: 12px;
+}
+
+.occ-add-cookie-form {
+  background: #f9f9f9;
+  border: 1px solid #dcdfe4;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+@media (max-width: 768px) {
+  .occ-field-row {
+    flex-direction: column;
+  }
+  
+  .occ-inventory-item-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .occ-plugin-author {
+    margin-left: 0;
+    margin-top: 8px;
+  }
+}
