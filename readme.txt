@@ -167,9 +167,9 @@ Optional features:
 == Support ==
 
 For support, documentation, and to report issues, visit:
-https://github.com/adammcbride/open-cookie-consent
+https://github.com/dynumo/open-cookie-consent
 
 == Contributing ==
 
 Contributions are welcome! Please see our GitHub repository for guidelines:
-https://github.com/adammcbride/open-cookie-consent
+https://github.com/dynumo/open-cookie-consent
