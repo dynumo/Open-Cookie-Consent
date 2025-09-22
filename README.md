@@ -322,13 +322,13 @@ Contributions welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guideli
 
 ## Support
 
-- **GitHub Issues**: [Report bugs and request features](https://github.com/adammcbride/open-cookie-consent/issues)
-- **Documentation**: [Wiki and guides](https://github.com/adammcbride/open-cookie-consent/wiki)
-- **Discussions**: [Community support](https://github.com/adammcbride/open-cookie-consent/discussions)
+- **GitHub Issues**: [Report bugs and request features](https://github.com/dynumo/open-cookie-consent/issues)
+- **Documentation**: [Wiki and guides](https://github.com/dynumo/open-cookie-consent/wiki)
+- **Discussions**: [Community support](https://github.com/dynumo/open-cookie-consent/discussions)
 
 ## Roadmap
 
-See our [project roadmap](https://github.com/adammcbride/open-cookie-consent/projects) for planned features and improvements.
+See our [project roadmap](https://github.com/dynumo/open-cookie-consent/projects) for planned features and improvements.
 
 ---
 
