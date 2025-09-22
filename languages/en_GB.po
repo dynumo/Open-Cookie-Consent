@@ -1,0 +1,533 @@
+# English (UK) translation for Open Cookie Consent
+# Copyright (C) 2025 Open Cookie Consent
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Open Cookie Consent 0.1.0\n"
+"Report-Msgid-Bugs-To: https://github.com/adammcbride/open-cookie-consent\n"
+"POT-Creation-Date: 2025-01-17 12:00+0000\n"
+"PO-Revision-Date: 2025-01-17 12:00+0000\n"
+"Last-Translator: Adam McBride\n"
+"Language-Team: English (UK)\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Necessary"
+msgstr "Necessary"
+
+msgid "Essential cookies required for basic site functionality."
+msgstr "Essential biscuits required for basic site functionality."
+
+msgid "Analytics"
+msgstr "Analytics"
+
+msgid "Cookies that help us understand how visitors interact with our website."
+msgstr "Biscuits that help us understand how visitors interact with our website."
+
+msgid "Advertising"
+msgstr "Advertising"
+
+msgid "Cookies used to show you relevant advertisements."
+msgstr "Biscuits used to show you relevant advertisements."
+
+msgid "Cookie Consent"
+msgstr "Biscuit Consent"
+
+msgid "We use cookies to enhance your browsing experience and analyze our traffic. By clicking \"Accept All\", you consent to our use of cookies."
+msgstr "We use biscuits to enhance your browsing experience and analyse our traffic. By clicking \"Accept All\", you consent to our use of biscuits."
+
+msgid "Cookie Policy"
+msgstr "Biscuit Policy"
+
+msgid "Cookie Preferences"
+msgstr "Biscuit Preferences"
+
+msgid "We've updated our cookie use. New cookies were added since you set your preferences."
+msgstr "We've updated our biscuit use. New biscuits were added since you set your preferences."
+
+msgid "Review Cookies"
+msgstr "Review Biscuits"
+
+msgid "Updated Cookie Use"
+msgstr "Updated Biscuit Use"
+
+msgid "Cookie consent is active and monitoring your site."
+msgstr "Biscuit consent is active and monitoring your site."
+
+msgid "Automatic cookie detection schedule"
+msgstr "Automatic biscuit detection schedule"
+
+msgid "Recently Detected Cookies"
+msgstr "Recently Detected Biscuits"
+
+msgid "Only show banner when non-essential cookies are detected"
+msgstr "Only show banner when non-essential biscuits are detected"
+
+msgid "When enabled, the consent banner will only appear if the scanner detects non-essential cookies."
+msgstr "When enabled, the consent banner will only appear if the scanner detects non-essential biscuits."
+
+msgid "Cookie Policy Page"
+msgstr "Biscuit Policy Page"
+
+msgid "Updated Notice Focus"
+msgstr "Updated Notice Focus"
+
+msgid "Which button should receive initial focus in the updated cookies notice."
+msgstr "Which button should receive initial focus in the updated biscuits notice."
+
+msgid "Categories define how cookies are grouped for consent. The \"Necessary\" category cannot be modified as it is required for legal compliance."
+msgstr "Categories define how biscuits are grouped for consent. The \"Necessary\" category cannot be modified as it is required for legal compliance."
+
+msgid "Update Cookie Database"
+msgstr "Update Biscuit Database"
+
+msgid "Auto-update Cookie Database"
+msgstr "Auto-update Biscuit Database"
+
+msgid "Automatically update the Open Cookie Database monthly"
+msgstr "Automatically update the Open Biscuit Database monthly"
+
+msgid "Send email notifications when new cookies are detected"
+msgstr "Send email notifications when new biscuits are detected"
+
+msgid "Detected Cookies"
+msgstr "Detected Biscuits"
+
+msgid "Cookie Name"
+msgstr "Biscuit Name"
+
+msgid "Enable JavaScript runtime cookie detection"
+msgstr "Enable JavaScript runtime biscuit detection"
+
+msgid "Experimental: Uses JavaScript to detect cookies set at runtime. May impact performance."
+msgstr "Experimental: Uses JavaScript to detect biscuits set at runtime. May impact performance."
+
+msgid "Store aggregated consent statistics in database"
+msgstr "Store aggregated consent statistics in database"
+
+msgid "Stores daily counts of consent actions. No personal data is collected."
+msgstr "Stores daily counts of consent actions. No personal data is collected."
+
+msgid "All cookies accepted"
+msgstr "All biscuits accepted"
+
+msgid "Non-essential cookies rejected"
+msgstr "Non-essential biscuits rejected"
+
+msgid "Cookie preferences saved"
+msgstr "Biscuit preferences saved"
+
+msgid "Found %d cookies"
+msgstr "Found %d biscuits"
+
+msgid "[%s] Cookie Scan Completed"
+msgstr "[%s] Biscuit Scan Completed"
+
+msgid "Cookie scan completed.\\n\\nDetected cookies: %d\\nInventory version: %s\\n\\nView details in the WordPress admin."
+msgstr "Biscuit scan completed.\\n\\nDetected biscuits: %d\\nInventory version: %s\\n\\nView details in the WordPress admin."
+
+# All other strings remain the same as they don't contain "cookie"
+msgid "Insufficient permissions"
+msgstr "Insufficient permissions"
+
+msgid "OCD database updated successfully"
+msgstr "OCD database updated successfully"
+
+msgid "Failed to update OCD database"
+msgstr "Failed to update OCD database"
+
+msgid "Invalid consent data"
+msgstr "Invalid consent data"
+
+msgid "Consent updated successfully"
+msgstr "Consent updated successfully"
+
+msgid "Unknown"
+msgstr "Unknown"
+
+msgid "Static scan"
+msgstr "Static scan"
+
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+msgid "Reject Non-Essential"
+msgstr "Reject Non-Essential"
+
+msgid "Preferences"
+msgstr "Preferences"
+
+msgid "Accept All"
+msgstr "Accept All"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Always On"
+msgstr "Always On"
+
+msgid "Save Preferences"
+msgstr "Save Preferences"
+
+msgid "Keep Current Settings"
+msgstr "Keep Current Settings"
+
+msgid "Open Cookie Consent"
+msgstr "Open Biscuit Consent"
+
+msgid "Settings saved successfully"
+msgstr "Settings saved successfully"
+
+msgid "Error saving settings"
+msgstr "Error saving settings"
+
+msgid "Scanning..."
+msgstr "Scanning..."
+
+msgid "Scan completed"
+msgstr "Scan completed"
+
+msgid "Are you sure you want to reset all settings?"
+msgstr "Are you sure you want to reset all settings?"
+
+msgid "Overview"
+msgstr "Overview"
+
+msgid "General"
+msgstr "General"
+
+msgid "Categories"
+msgstr "Categories"
+
+msgid "Scanner"
+msgstr "Scanner"
+
+msgid "Integrations"
+msgstr "Integrations"
+
+msgid "Advanced"
+msgstr "Advanced"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "Plugin Status"
+msgstr "Plugin Status"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Last Scan"
+msgstr "Last Scan"
+
+msgid "Never"
+msgstr "Never"
+
+msgid "Scan Schedule"
+msgstr "Scan Schedule"
+
+msgid "Quick Actions"
+msgstr "Quick Actions"
+
+msgid "Run Scan Now"
+msgstr "Run Scan Now"
+
+msgid "Clear Consent Cache"
+msgstr "Clear Consent Cache"
+
+msgid "View Scan Results"
+msgstr "View Scan Results"
+
+msgid "Display Position"
+msgstr "Display Position"
+
+msgid "Modal (Center)"
+msgstr "Modal (Centre)"
+
+msgid "Banner (Bottom)"
+msgstr "Banner (Bottom)"
+
+msgid "Theme"
+msgstr "Theme"
+
+msgid "Auto (System)"
+msgstr "Auto (System)"
+
+msgid "Light"
+msgstr "Light"
+
+msgid "Dark"
+msgstr "Dark"
+
+msgid "Brand Colour"
+msgstr "Brand Colour"
+
+msgid "Primary color for buttons and accents."
+msgstr "Primary colour for buttons and accents."
+
+msgid "Border Radius"
+msgstr "Border Radius"
+
+msgid "Corner radius for UI elements."
+msgstr "Corner radius for UI elements."
+
+msgid "Conditional Banner"
+msgstr "Conditional Banner"
+
+msgid "Privacy Policy Page"
+msgstr "Privacy Policy Page"
+
+msgid "None"
+msgstr "None"
+
+msgid "Review Cookies (Safer)"
+msgstr "Review Biscuits (Safer)"
+
+msgid "Label"
+msgstr "Label"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Enabled"
+msgstr "Enabled"
+
+msgid "Show this category to users"
+msgstr "Show this category to users"
+
+msgid "(Required - Cannot be disabled)"
+msgstr "(Required - Cannot be disabled)"
+
+msgid "Scan Settings"
+msgstr "Scan Settings"
+
+msgid "Scan Interval"
+msgstr "Scan Interval"
+
+msgid "Hourly"
+msgstr "Hourly"
+
+msgid "Daily"
+msgstr "Daily"
+
+msgid "Weekly"
+msgstr "Weekly"
+
+msgid "Custom Cron"
+msgstr "Custom Cron"
+
+msgid "Daily Time"
+msgstr "Daily Time"
+
+msgid "Time to run daily scans (24-hour format)."
+msgstr "Time to run daily scans (24-hour format)."
+
+msgid "Custom Cron Expression"
+msgstr "Custom Cron Expression"
+
+msgid "Standard cron expression (e.g., 0 3 * * 1 for weekly on Monday at 3 AM)."
+msgstr "Standard cron expression (e.g., 0 3 * * 1 for weekly on Monday at 3 AM)."
+
+msgid "Pages to Scan"
+msgstr "Pages to Scan"
+
+msgid "One URL per line, e.g.:\\n/\\n/about\\n/contact"
+msgstr "One URL per line, e.g.:\\n/\\n/about\\n/contact"
+
+msgid "List of page URLs to scan (relative to your site root)."
+msgstr "List of page URLs to scan (relative to your site root)."
+
+msgid "Runtime Sampler"
+msgstr "Runtime Sampler"
+
+msgid "Notifications"
+msgstr "Notifications"
+
+msgid "Email Notifications"
+msgstr "Email Notifications"
+
+msgid "Webhook URL"
+msgstr "Webhook URL"
+
+msgid "Optional webhook URL to receive scan completion notifications."
+msgstr "Optional webhook URL to receive scan completion notifications."
+
+msgid "Category"
+msgstr "Category"
+
+msgid "Vendor"
+msgstr "Vendor"
+
+msgid "Source"
+msgstr "Source"
+
+msgid "Confidence"
+msgstr "Confidence"
+
+msgid "Google Consent Mode v2"
+msgstr "Google Consent Mode v2"
+
+msgid "Enable GCM v2"
+msgstr "Enable GCM v2"
+
+msgid "Enable Google Consent Mode v2 integration"
+msgstr "Enable Google Consent Mode v2 integration"
+
+msgid "Automatically manages consent signals for Google Analytics and Google Ads."
+msgstr "Automatically manages consent signals for Google Analytics and Google Ads."
+
+msgid "DataLayer Event Name"
+msgstr "DataLayer Event Name"
+
+msgid "Event name pushed to dataLayer when consent is updated."
+msgstr "Event name pushed to dataLayer when consent is updated."
+
+msgid "Plausible Analytics"
+msgstr "Plausible Analytics"
+
+msgid "Enable Plausible"
+msgstr "Enable Plausible"
+
+msgid "Send consent events to Plausible Analytics"
+msgstr "Send consent events to Plausible Analytics"
+
+msgid "Track consent banner interactions with privacy-focused analytics."
+msgstr "Track consent banner interactions with privacy-focused analytics."
+
+msgid "Event Name"
+msgstr "Event Name"
+
+msgid "Custom event name for consent tracking in Plausible."
+msgstr "Custom event name for consent tracking in Plausible."
+
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+msgid "Additional CSS"
+msgstr "Additional CSS"
+
+msgid "Add custom CSS to override default styles. Use CSS class prefix .occ- to target elements."
+msgstr "Add custom CSS to override default styles. Use CSS class prefix .occ- to target elements."
+
+msgid "Consent Counters"
+msgstr "Consent Counters"
+
+msgid "Enable Counters"
+msgstr "Enable Counters"
+
+msgid "Data Retention"
+msgstr "Data Retention"
+
+msgid "days"
+msgstr "days"
+
+msgid "How long to keep consent statistics."
+msgstr "How long to keep consent statistics."
+
+msgid "Cloudflare Integration"
+msgstr "Cloudflare Integration"
+
+msgid "API Token"
+msgstr "API Token"
+
+msgid "Cloudflare API token for cache purging when consent settings change."
+msgstr "Cloudflare API token for cache purging when consent settings change."
+
+msgid "Zone ID"
+msgstr "Zone ID"
+
+msgid "Cloudflare zone ID for your domain."
+msgstr "Cloudflare zone ID for your domain."
+
+msgid "Debug & Maintenance"
+msgstr "Debug & Maintenance"
+
+msgid "Debug Mode"
+msgstr "Debug Mode"
+
+msgid "Enable debug logging"
+msgstr "Enable debug logging"
+
+msgid "Logs additional information for troubleshooting. Disable in production."
+msgstr "Logs additional information for troubleshooting. Disable in production."
+
+msgid "Import / Export"
+msgstr "Import / Export"
+
+msgid "Export Settings"
+msgstr "Export Settings"
+
+msgid "Download Settings JSON"
+msgstr "Download Settings JSON"
+
+msgid "Export all plugin settings as a JSON file."
+msgstr "Export all plugin settings as a JSON file."
+
+msgid "Import Settings"
+msgstr "Import Settings"
+
+msgid "Import settings from a JSON file. This will overwrite current settings."
+msgstr "Import settings from a JSON file. This will overwrite current settings."
+
+msgid "Getting Started"
+msgstr "Getting Started"
+
+msgid "Open Cookie Consent is a privacy-first, GDPR-compliant cookie consent solution for WordPress."
+msgstr "Open Biscuit Consent is a privacy-first, GDPR-compliant biscuit consent solution for WordPress."
+
+msgid "Script Gating"
+msgstr "Script Gating"
+
+msgid "To gate scripts until consent is given, use the following pattern:"
+msgstr "To gate scripts until consent is given, use the following pattern:"
+
+msgid "JavaScript API"
+msgstr "JavaScript API"
+
+msgid "Access consent state and control the UI programmatically:"
+msgstr "Access consent state and control the UI programmatically:"
+
+msgid "Events"
+msgstr "Events"
+
+msgid "Listen for consent events:"
+msgstr "Listen for consent events:"
+
+msgid "Support"
+msgstr "Support"
+
+msgid "For support and documentation, visit %s"
+msgstr "For support and documentation, visit %s"
+
+msgid "Version Information"
+msgstr "Version Information"
+
+msgid "Plugin Version:"
+msgstr "Plugin Version:"
+
+msgid "WordPress Version:"
+msgstr "WordPress Version:"
+
+msgid "PHP Version:"
+msgstr "PHP Version:"
+
+msgid "No settings to save"
+msgstr "No settings to save"
+
+msgid "No file uploaded"
+msgstr "No file uploaded"
+
+msgid "Invalid JSON file"
+msgstr "Invalid JSON file"
+
+msgid "Settings imported successfully"
+msgstr "Settings imported successfully"
+
+msgid "Failed to import settings"
+msgstr "Failed to import settings"
+
+msgid "Current settings kept"
+msgstr "Current settings kept"

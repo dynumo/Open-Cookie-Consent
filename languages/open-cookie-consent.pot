@@ -1,0 +1,709 @@
+# Copyright (C) 2025 Open Cookie Consent
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Open Cookie Consent 0.1.0\n"
+"Report-Msgid-Bugs-To: https://github.com/adammcbride/open-cookie-consent\n"
+"POT-Creation-Date: 2025-01-17 12:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2025-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: open-cookie-consent.php
+msgid "Necessary"
+msgstr ""
+
+#: open-cookie-consent.php
+msgid "Essential cookies required for basic site functionality."
+msgstr ""
+
+#: open-cookie-consent.php
+msgid "Analytics"
+msgstr ""
+
+#: open-cookie-consent.php
+msgid "Cookies that help us understand how visitors interact with our website."
+msgstr ""
+
+#: open-cookie-consent.php
+msgid "Advertising"
+msgstr ""
+
+#: open-cookie-consent.php
+msgid "Cookies used to show you relevant advertisements."
+msgstr ""
+
+#: includes/class-occ-core.php
+msgid "Insufficient permissions"
+msgstr ""
+
+#: includes/class-occ-core.php
+msgid "OCD database updated successfully"
+msgstr ""
+
+#: includes/class-occ-core.php
+msgid "Failed to update OCD database"
+msgstr ""
+
+#: includes/class-occ-consent-engine.php
+msgid "Invalid consent data"
+msgstr ""
+
+#: includes/class-occ-consent-engine.php
+msgid "Consent updated successfully"
+msgstr ""
+
+#: includes/class-occ-scanner.php
+msgid "[%s] Cookie Scan Completed"
+msgstr ""
+
+#: includes/class-occ-scanner.php
+msgid "Cookie scan completed.\n\nDetected cookies: %d\nInventory version: %s\n\nView details in the WordPress admin."
+msgstr ""
+
+#: includes/class-occ-scanner.php
+msgid "Unknown"
+msgstr ""
+
+#: includes/class-occ-scanner.php
+msgid "Static scan"
+msgstr ""
+
+#: includes/class-occ-ui.php
+msgid "Cookie Consent"
+msgstr ""
+
+#: includes/class-occ-ui.php
+msgid "We use cookies to enhance your browsing experience and analyze our traffic. By clicking \"Accept All\", you consent to our use of cookies."
+msgstr ""
+
+#: includes/class-occ-ui.php
+msgid "Privacy Policy"
+msgstr ""
+
+#: includes/class-occ-ui.php
+msgid "Cookie Policy"
+msgstr ""
+
+#: includes/class-occ-ui.php
+msgid "Reject Non-Essential"
+msgstr ""
+
+#: includes/class-occ-ui.php
+msgid "Preferences"
+msgstr ""
+
+#: includes/class-occ-ui.php
+msgid "Accept All"
+msgstr ""
+
+#: includes/class-occ-ui.php
+msgid "Cookie Preferences"
+msgstr ""
+
+#: includes/class-occ-ui.php
+msgid "Close"
+msgstr ""
+
+#: includes/class-occ-ui.php
+msgid "Always On"
+msgstr ""
+
+#: includes/class-occ-ui.php
+msgid "Save Preferences"
+msgstr ""
+
+#: includes/class-occ-ui.php
+msgid "Updated Cookie Use"
+msgstr ""
+
+#: includes/class-occ-ui.php
+msgid "We've updated our cookie use. New cookies were added since you set your preferences."
+msgstr ""
+
+#: includes/class-occ-ui.php
+msgid "Review Cookies"
+msgstr ""
+
+#: includes/class-occ-ui.php
+msgid "Keep Current Settings"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Open Cookie Consent"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Cookie Consent"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Settings saved successfully"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Error saving settings"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Scanning..."
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Scan completed"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Are you sure you want to reset all settings?"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Overview"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "General"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Categories"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Scanner"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Integrations"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Advanced"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Help"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Plugin Status"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Active"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Cookie consent is active and monitoring your site."
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Last Scan"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Never"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Found %d cookies"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Scan Schedule"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Automatic cookie detection schedule"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Quick Actions"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Run Scan Now"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Clear Consent Cache"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "View Scan Results"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Recently Detected Cookies"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Display Position"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Modal (Center)"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Banner (Bottom)"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Theme"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Auto (System)"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Light"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Dark"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Brand Colour"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Primary color for buttons and accents."
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Border Radius"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Corner radius for UI elements."
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Conditional Banner"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Only show banner when non-essential cookies are detected"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "When enabled, the consent banner will only appear if the scanner detects non-essential cookies."
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Privacy Policy Page"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "None"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Cookie Policy Page"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Updated Notice Focus"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Review Cookies (Safer)"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Which button should receive initial focus in the updated cookies notice."
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Label"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Description"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Enabled"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Show this category to users"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "(Required - Cannot be disabled)"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Categories define how cookies are grouped for consent. The \"Necessary\" category cannot be modified as it is required for legal compliance."
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Update Cookie Database"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Scan Settings"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Scan Interval"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Hourly"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Daily"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Weekly"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Custom Cron"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Daily Time"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Time to run daily scans (24-hour format)."
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Custom Cron Expression"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Standard cron expression (e.g., 0 3 * * 1 for weekly on Monday at 3 AM)."
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Pages to Scan"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "One URL per line, e.g.:\\n/\\n/about\\n/contact"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "List of page URLs to scan (relative to your site root)."
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Runtime Sampler"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Enable JavaScript runtime cookie detection"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Experimental: Uses JavaScript to detect cookies set at runtime. May impact performance."
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Auto-update Cookie Database"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Automatically update the Open Cookie Database monthly"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Notifications"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Email Notifications"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Send email notifications when new cookies are detected"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Webhook URL"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Optional webhook URL to receive scan completion notifications."
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Detected Cookies"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Cookie Name"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Category"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Vendor"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Source"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Confidence"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Google Consent Mode v2"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Enable GCM v2"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Enable Google Consent Mode v2 integration"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Automatically manages consent signals for Google Analytics and Google Ads."
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "DataLayer Event Name"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Event name pushed to dataLayer when consent is updated."
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Plausible Analytics"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Enable Plausible"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Send consent events to Plausible Analytics"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Track consent banner interactions with privacy-focused analytics."
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Event Name"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Custom event name for consent tracking in Plausible."
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Additional CSS"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Add custom CSS to override default styles. Use CSS class prefix .occ- to target elements."
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Consent Counters"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Enable Counters"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Store aggregated consent statistics in database"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Stores daily counts of consent actions. No personal data is collected."
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Data Retention"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "days"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "How long to keep consent statistics."
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Cloudflare Integration"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "API Token"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Cloudflare API token for cache purging when consent settings change."
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Zone ID"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Cloudflare zone ID for your domain."
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Debug & Maintenance"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Debug Mode"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Enable debug logging"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Logs additional information for troubleshooting. Disable in production."
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Import / Export"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Export Settings"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Download Settings JSON"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Export all plugin settings as a JSON file."
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Import Settings"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Import Settings"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Import settings from a JSON file. This will overwrite current settings."
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Getting Started"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Open Cookie Consent is a privacy-first, GDPR-compliant cookie consent solution for WordPress."
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Script Gating"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "To gate scripts until consent is given, use the following pattern:"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "JavaScript API"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Access consent state and control the UI programmatically:"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Events"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Listen for consent events:"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Support"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "For support and documentation, visit %s"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Version Information"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Plugin Version:"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "WordPress Version:"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "PHP Version:"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "No settings to save"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "No file uploaded"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Invalid JSON file"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Settings imported successfully"
+msgstr ""
+
+#: admin/class-occ-admin.php
+msgid "Failed to import settings"
+msgstr ""
+
+#: assets/js/ui.js
+msgid "All cookies accepted"
+msgstr ""
+
+#: assets/js/ui.js
+msgid "Non-essential cookies rejected"
+msgstr ""
+
+#: assets/js/ui.js
+msgid "Cookie preferences saved"
+msgstr ""
+
+#: assets/js/ui.js
+msgid "Current settings kept"
+msgstr ""
